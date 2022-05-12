@@ -1,0 +1,13 @@
+#manejo de imagenes
+pillow==7.2.0
+asgiref==3.5.0
+Django==4.0.4
+django-environ==0.8.1
+django-extra-keywords==1.1.2
+djangorestframework==3.13.1
+fontawesomefree==6.1.1
+Pillow==9.1.0
+psycopg2==2.9.3
+psycopg2-binary==2.8.4
+pytz==2022.1
+sqlparse==0.4.2
